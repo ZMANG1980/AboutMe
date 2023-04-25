@@ -2,7 +2,7 @@
 ---
 ---
 ### Introduction
-##### My name is Matthew Diekmann. I am currently enrolled in the Computer Science program at SICTC. I do not plan to enter the field of computer science, however, if i would have not taken this class, I would never have known if it was for me or not.
+##### Zander Gumula. I am currently enrolled in the Computer Science program at SICTC. I do not plan to enter into cybersecurity and video editing as a side hustle.
 [1]:https://en.wikipedia.org/wiki/Yeat
 [2]:https://en.wikipedia.org/wiki/Barack_Obama
 [3]:https://en.wikipedia.org/wiki/Playboi_Carti
@@ -20,7 +20,7 @@ My nightime routine
 2. Brush teeth
 3. Pray
 4. Watch Yotube
-5.Sleep
+5. Sleep
 ## My Philosophy
 *Life is what you make of it.*
 ## My favorite websites
