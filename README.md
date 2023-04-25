@@ -26,9 +26,9 @@ My nightime routine
 ## My favorite websites
 [YouTube](https://www.youtube.com)<br>
 [Discord](https://discord.com)<br>
-[Stream](https://store.steampowered.com)<br>
+[Steam](https://store.steampowered.com)<br>
 [Check me out][here]
 ## People of Interest
 [Yeat][1]<br>
 [Obama][2]<br>
-[Play Boi Carti][3]<br>
+[Playboi Carti][3]<br>
