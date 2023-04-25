@@ -2,7 +2,7 @@
 ---
 ---
 ### Introduction
-##### Zander Gumula. I am currently enrolled in the Computer Science program at SICTC. I do not plan to enter into cybersecurity and video editing as a side hustle.
+##### Zander Gumula. I am currently enrolled in the Computer Science program at SICTC. I  plan to enter into cybersecurity and video editing as a side hustle.
 [1]:https://en.wikipedia.org/wiki/Yeat
 [2]:https://en.wikipedia.org/wiki/Barack_Obama
 [3]:https://en.wikipedia.org/wiki/Playboi_Carti
@@ -25,8 +25,8 @@ My nightime routine
 *Life is what you make of it.*
 ## My favorite websites
 [YouTube](https://www.youtube.com)<br>
-[Discord](https://discord.com)
-[Stream](https://store.steampowered.com)
+[Discord](https://discord.com)<br>
+[Stream](https://store.steampowered.com)<br>
 [Check me out][here]
 ## People of Interest
 [Yeat][1]<br>
