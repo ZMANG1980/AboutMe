@@ -12,9 +12,9 @@ Hobbies
 My hobbies include:
 - YouTube Content Creator
 - Gaming
--Photoshop
+- Photoshop
 - Achery
--video editing for my videos
+- video editing for my videos
 
 My nightime routine
 1. Gaming
