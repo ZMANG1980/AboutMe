@@ -32,7 +32,7 @@ My nightime routine
 ## People of Interest
 [Yeat][1]<br>
 <kbd>
-<img src=https://github.com/ZMANG1980/AboutMe/blob/main/dnxzbfhg8au71.jpgheight="200px" width="200px">
+<img src=https://github.com/ZMANG1980/AboutMe/blob/main/dnxzbfhg8au71.jpg height="200px" width="200px">
  </kbd><br>
 [Obama][2]<br>
 <kbd>
