@@ -42,3 +42,8 @@ My nightime routine
 <kbd>
 <img src=https://github.com/ZMANG1980/AboutMe/blob/main/FXleoRSaQAAYGm6.jpg height="200px" width="200px">
  </kbd><br>
+ |Terms| Definitions | My meaning |
+|:-| :----: | ---: |
+|On Ja Morant| Alternative to on god reference to Ja Morant the NBA player| On god simile |
+|Goober|A Foolish Person| An Idiot|
+|Its Over| Something or someone is completely finished, defeated, or dead | Its Over|
