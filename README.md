@@ -32,13 +32,13 @@ My nightime routine
 ## People of Interest
 [Yeat][1]<br>
 <kbd>
-<img src=https://github.com/ZMANG1980/AboutMe/blob/main/dnxzbfhg8au71.jpg>
+<img src=https://github.com/ZMANG1980/AboutMe/blob/main/dnxzbfhg8au71.jpgheight="200px" width="200px">
  </kbd><br>
 [Obama][2]<br>
 <kbd>
-<img src=https://github.com/ZMANG1980/AboutMe/blob/main/71hAM%2BmPwVL.jpg>
+<img src=https://github.com/ZMANG1980/AboutMe/blob/main/71hAM%2BmPwVL.jpg height="200px" width="200px">
  </kbd><br>
 [Playboi Carti][3]<br>
 <kbd>
-<img src=https://github.com/ZMANG1980/AboutMe/blob/main/FXleoRSaQAAYGm6.jpg height="100px" width="200px">
+<img src=https://github.com/ZMANG1980/AboutMe/blob/main/FXleoRSaQAAYGm6.jpg height="200px" width="200px">
  </kbd><br>
