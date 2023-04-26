@@ -6,7 +6,7 @@
 [1]:https://en.wikipedia.org/wiki/Yeat
 [2]:https://en.wikipedia.org/wiki/Barack_Obama
 [3]:https://en.wikipedia.org/wiki/Playboi_Carti
-[here]:
+[here]:https://replit.com/@AlekzanderGumul
 Hobbies
 -
 My hobbies include:
@@ -28,7 +28,7 @@ My nightime routine
 [YouTube](https://www.youtube.com)<br>
 [Discord](https://discord.com)<br>
 [Steam](https://store.steampowered.com)<br>
-[Check me out][here](https://replit.com/@AlekzanderGumul)<br>
+[Check me out][here]
 ## People of Interest
 [Yeat][1]<br>
 <kbd>
