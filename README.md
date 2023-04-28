@@ -24,6 +24,8 @@ My nightime routine
 5. Sleep
 ## My Philosophy
 *Life is what you make of it.*
+## Quotes
+"How do you Spell go up"-Matthew Howard
 ## My favorite websites
 [YouTube](https://www.youtube.com)<br>
 [Discord](https://discord.com)<br>
